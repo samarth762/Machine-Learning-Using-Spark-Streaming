@@ -5,4 +5,4 @@ This project is to obtain an in depth understanding of how applications in the r
 
 model.py file contains the python code to recieve the streaming data which is being streamed by stream.py file in the different batch sizes given
 the file also has several ml models which are trained and tested for different sets of data
-here it also finds the eroor and accuracy of different models
+here it also finds the error and accuracy of different models
